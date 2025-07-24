@@ -49,6 +49,3 @@ _(Más proyectos próximamente...)_
 - 🌱 Siempre abierto a conversaciones sobre lenguajes, compiladores, modelos matemáticos y sistemas
 
 ---
-
-> “Buscar el conocimiento es construir el entendimiento.”  
-> — telognosys
