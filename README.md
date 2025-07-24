@@ -1,4 +1,4 @@
-<h1 align="center">🧠 telognosys — Explorando sistemas complejos y conocimiento computacional</h1>
+<h1 align="center">🧠 Telognosys — Explorando sistemas complejos y conocimiento computacional</h1>
 
 <p align="center">
   Estudiante de Ingeniería Civil Telemática · Apasionado por la matemática, el conocimiento y la abstracción en sistemas complejos.
