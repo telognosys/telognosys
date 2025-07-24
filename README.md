@@ -1,7 +1,7 @@
 <h1 align="center">🧠 telognosys — Explorando sistemas complejos y conocimiento computacional</h1>
 
 <p align="center">
-  Estudiante de Ingeniería Civil Telemática · Apasionado por la matemática, el conocimiento y la abstracción en sistemas dinámicos.
+  Estudiante de Ingeniería Civil Telemática · Apasionado por la matemática, el conocimiento y la abstracción en sistemas complejos.
 </p>
 
 ---
@@ -27,7 +27,7 @@
 
 ### 🚧 Proyectos destacados
 
-- 🔧 **[Nombre del Compilador]** – Un compilador base en desarrollo para un lenguaje con **paralelismo implícito**
+- 🔧 **[DAGR]** – Un compilador base en desarrollo para un lenguaje con **paralelismo implícito**
   - Objetivo: optimizar el procesamiento concurrente de grandes volúmenes de datos
   - Tecnología: C++, con arquitectura modular en etapas de análisis y generación
 
@@ -45,7 +45,7 @@ _(Más proyectos próximamente...)_
 
 ### 📬 Contacto
 
-- ✉️ Puedes escribirme a: **[tu-correo@ejemplo.com]** *(si quieres incluirlo)*
+- ✉️ Puedes escribirme a: **[telognosys@gmail.com]** 
 - 🌱 Siempre abierto a conversaciones sobre lenguajes, compiladores, modelos matemáticos y sistemas
 
 ---
